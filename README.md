@@ -16,15 +16,16 @@ For example, to get a hits badge for `https://github.com/silentsoft/hits`:
 
 - Markdown
   ```markdown
-  [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+  [![Hits](https://hits.sh/appliedopticsun.github.io/hits.svg)](https://hits.sh/appliedopticsun.github.io/hits/)
   ```
 - HTML
   ```html
-  <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg"/></a>
+  https://hits.sh/appliedopticsun.github.io/hits
+  <a href="https://hits.sh/appliedopticsun.github.io/hits/"><img alt="Hits" src="https://hits.sh/appliedopticsun.github.io/hits.svg"/></a>
   ```
 - Image Link
   ```
-  https://hits.sh/github.com/silentsoft/hits.svg
+  https://hits.sh/appliedopticsun.github.io/hits.svg
   ```
 
 ## Features in Query String
