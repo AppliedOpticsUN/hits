@@ -12,7 +12,7 @@
 
 For example, to get a hits badge for `https://github.com/silentsoft/hits`:
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+[![Hits](https://hits.sh/appliedopticsun.github.io/hits.svg)(https://hits.sh/appliedopticsun.github.io/hits/)
 
 - Markdown
   ```markdown
